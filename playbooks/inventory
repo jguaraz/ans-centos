@@ -1,0 +1,5 @@
+servera ansible_hostname=192.168.122.81
+serverb ansible_hostname=192.168.122.82
+serverc ansible_hostname=192.168.122.83
+serverd ansible_hostname=192.168.122.84
+lb1 ansible_hostname=192.168.122.230
