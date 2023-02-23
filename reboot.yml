@@ -1,4 +1,5 @@
 ---
-- name: Reboot a Linux machine 
+- name: Reboot a Linux machine
+  hosts: all
   reboot:
     reboot_timeout: 1800
