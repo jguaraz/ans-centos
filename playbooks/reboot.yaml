@@ -1,0 +1,4 @@
+---
+- name: Reboot a Linux machine 
+  reboot:
+    reboot_timeout: 1800
